@@ -271,6 +271,7 @@
                     <manifest>
                         <addClasspath>true</addClasspath>
                         <mainClass><![CDATA[ProducerExample]]></mainClass>
+                        <mainClass><![CDATA[ConsumerExample]]></mainClass>
                     </manifest>
                 </archive>
             </configuration>
