@@ -30,10 +30,10 @@ import java.util.Properties;
 
 public class ConsumerExample {
 
-    private static final String HOSTNAME = "<TO DO>";
+    private static final String HOSTNAME = "svc-09558ecc-ecbe-4b40-b86d-ed73338cff52-dml.aws-virginia-4.svc.singlestore.com";
     private static final String PORT = "3306";
     private static final String USER = "admin";
-    private static final String PASSWORD = "<TO DO>";
+    private static final String PASSWORD = "James-e-singlestore-aws-devday";
     private static final String DATABASE = "sensor_readings";
 
     public static void main(final String[] args) throws Exception {
